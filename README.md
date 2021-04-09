@@ -6,7 +6,6 @@ Foi desenvolvida uma API REST completa de gerenciamento de vendas de carros.
 <ul>
 <li>ASP.NET Core com .NET 5</li>
 <li>Entity Framework Core</li>
-<li>Dapper</li>
 <li>Swagger</li>
 <li>Publicação na nuvem</li>
 <li>Injeção de Dependência</li>
