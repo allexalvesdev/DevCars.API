@@ -1,4 +1,4 @@
-<h1>Projeto DevCars - Paticipação de um Bootcamp ASP.NET Core</h1>
+<h1>Projeto DevCars - Participação de um Bootcamp ASP.NET Core</h1>
 Foi desenvolvida uma API REST completa de gerenciamento de vendas de carros.
 
 <h2>Tecnologias e práticas utilizadas</h2>
